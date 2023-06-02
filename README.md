@@ -1,4 +1,4 @@
-# Data Science Bootcamp Learning Journey
+# My Data Science Bootcamp Learning Journey
 
 This repository contains all the study materials, quizzes, and projects completed during my data science bootcamp. The program covers various stages from Stage A to E, providing a comprehensive learning experience.
 
